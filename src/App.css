@@ -3,3 +3,24 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.heading{
+  border: none;
+  border-radius: 0.5rem;
+  background-color: rgb(95, 7, 55) ;
+  color: white;
+  font-size: 2rem;
+  padding: 0.5rem 1rem;
+  margin: 2rem auto;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  font-family: math;
+}
+
+@media screen and (min-width: 576px) {
+  .heading{
+  width: 30%;
+  }
+}

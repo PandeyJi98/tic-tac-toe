@@ -1,7 +1,7 @@
  .reset-button{
     border: none;
     border-radius: 0.5rem;
-    background-color: green ;
+    background-color: rgb(95, 7, 55) ;
     color: white;
     font-size: 2rem;
     padding: 0.5rem 1rem;

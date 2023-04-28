@@ -18,14 +18,14 @@
 }
 
 .x-score{
-    color: rgb(255, 70, 37);
-    border-bottom: 5px solid rgb(255, 70, 37);
+    color: rgb(108, 147, 9);
+    border-bottom: 5px solid rgb(108, 147, 9);
     border-radius: 0.5rem 0 0 0.5rem;
 }
 
 .o-score{
-    color: rgb(73, 183, 10);
-    border-bottom: 5px solid rgb(73, 183, 10);
+    color: rgb(241, 72, 11);
+    border-bottom: 5px solid rgb(241, 72, 11);
     border-radius: 0.5rem 0 0 0.5rem;
 }
 
